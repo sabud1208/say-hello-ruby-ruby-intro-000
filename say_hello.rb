@@ -1,1 +1,3 @@
-say-hello-ruby
+def greeting
+  puts "Hello, Gabriela!"
+end
