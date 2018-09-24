@@ -1,3 +1,3 @@
-def method_name
-  puts "Hello,#{name}"
+def greeting(name)
+  puts "Hello,#{Stephanie}"
 end
